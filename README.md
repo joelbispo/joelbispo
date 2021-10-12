@@ -6,3 +6,4 @@ I've been a technology lover since I was a child. I started programming at 14 ye
 ![image]({https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white})
 ![image]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})
 
+## Stacks that make me have fun daily
