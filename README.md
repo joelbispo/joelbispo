@@ -10,7 +10,7 @@
 
 🌍 I've lived in some countries such as Australia where I did part of my graduation studies, now I live in the Netherlands.
 
-**Stacks that pay my trips to see my family in Brazil**
+**Stacks that pay my trips to see my family in Brazil every year**
 
 ![enter image description here](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![enter image description here](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![enter image description here](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
