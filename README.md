@@ -6,7 +6,7 @@
 
 👨🏾‍🎓 I went to university to go deeper on all of that technology that has been fascinating me so taking there a Computer Engineering program in 2010.
 
-👨🏾‍💻 Since then I have been able to code and create computer systems professionally from simple webpages to the most complex machine that humanity has ever built (Lithography machines). 
+👨🏾‍💻 Since then I have been able to code and create computer systems professionally from simple webpages to the most complex machines. 
 
 🌍 I've lived in some countries such as Australia where I did part of my graduation studies, now I live in the Netherlands.
 
